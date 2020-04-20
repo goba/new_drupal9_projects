@@ -1,0 +1,57 @@
+2020-04-19 23:24:55	webtheme	8.2.0-alpha4	Webtheme
+2020-04-19 23:16:07	social_links	8.x-2.0	Social Links API
+2020-04-19 23:16:01	webpage	8.2.0-alpha1	Webpage
+2020-04-19 23:05:32	webtest	8.1.0-alpha1	WebTest
+2020-04-19 23:00:09	webdev	8.1.0-alpha1	WebDev
+2020-04-19 22:53:13	webadmin	8.1.0-alpha1	WebAdmin
+2020-04-19 22:36:06	ckeditor_oembed	8.x-1.1	CKEditor oembed
+2020-04-19 21:25:22	amazing_multiselect	8.x-2.0	Amazing Multiselect
+2020-04-19 21:17:39	varbase_api	8.x-7.10	Varbase API
+2020-04-19 20:47:10	autotitle	8.x-1.0	Autotitle
+2020-04-19 20:07:33	social_feed_fetcher	8.x-2.0-alpha1	Social feed fetcher
+2020-04-19 19:48:23	git_status	8.x-1.0-alpha3	Git Status
+2020-04-19 19:32:13	nitty	8.x-1.1	Nitty
+2020-04-19 19:27:43	nitty_tools	8.x-1.1	Nitty tools
+2020-04-19 17:55:48	redirect_after_login	8.x-2.6	Redirect after login
+2020-04-19 15:36:11	mtcaptcha	7.x-3.0	MTCaptcha
+2020-04-19 15:10:13	modal_widget	8.x-1.1	Modal Widget
+2020-04-19 13:38:41	date_recur_modular	8.x-1.3	Recurring Date Field Modular Widgets
+2020-04-19 13:32:20	date_recur_modular	8.x-1.1-alpha2	Recurring Date Field Modular Widgets
+2020-04-19 13:28:52	projects_stats	8.x-1.23	Projects Stats
+2020-04-19 12:44:22	svg_formatter	8.x-1.14	SVG Formatter
+2020-04-19 11:01:41	notify_to_slack	8.x-2.0	Send Notification to Slack
+2020-04-19 10:42:35	shortcode_bootstrap	7.x-1.2	Shortcode bootstrap layout editor
+2020-04-19 08:12:53	layout_builder_lock	8.x-1.0-rc3	Layout Builder Lock
+2020-04-19 06:52:40	personal_id	2.0.0-beta4	Personal ID
+2020-04-19 06:03:20	personal_id	2.0.0-beta3	Personal ID
+2020-04-19 05:22:04	display_machine_name	8.x-1.1	Display Machine Name
+2020-04-18 23:48:43	flush_facebook_cache	8.x-1.0	Flush Facebook Cache
+2020-04-18 21:37:11	layout_bg	8.x-1.0-alpha3	Layout BG
+2020-04-18 20:19:08	ldap_auth	8.x-1.13	LDAP Integration with Active Directory and OpenLDAP  - NTLM & Kerberos Login
+2020-04-18 20:15:51	ldap_auth	7.x-1.11	LDAP Integration with Active Directory and OpenLDAP  - NTLM & Kerberos Login
+2020-04-18 19:39:26	iframe	8.x-1.17	Iframe
+2020-04-18 19:38:03	iframe	8.x-2.4	Iframe
+2020-04-18 19:13:37	exif	8.x-2.2	Exif
+2020-04-18 18:31:08	geofield_map	8.x-2.62	Geofield Map
+2020-04-18 18:25:13	bfd	8.x-1.14	Bootstrap for Drupal
+2020-04-18 17:38:10	views_json_source	8.x-1.0-beta1	Views Json Source
+2020-04-18 17:07:18	computed_field_plugin	8.x-1.3	Computed Field Plugin
+2020-04-18 15:30:33	bootstrap_library	8.x-1.12	Bootstrap Library
+2020-04-18 14:18:13	contact_block	8.x-1.5	Contact Block
+2020-04-18 13:23:30	upgrade_check	6.x-1.2	Drupal 8 upgrade evaluation
+2020-04-18 11:47:46	wistia	8.x-1.0-alpha1	Wistia
+2020-04-18 09:14:43	role_based_theme_switcher	9.0.0-beta1	Role Based Theme Switcher
+2020-04-18 09:06:48	external_link_change	8.x-1.0-alpha2	External link change
+2020-04-18 08:59:48	comment_approver	8.x-1.0-alpha2	Comment approver
+2020-04-18 08:16:08	taxonomy_delete	8.x-1.1	Taxonomy Delete
+2020-04-18 08:15:27	mailboxlayer	8.x-1.1	Mailboxlayer
+2020-04-18 08:13:00	unique_entity_title	8.x-1.2	Unique entity title
+2020-04-18 07:47:27	multiple_sitemap	8.x-1.2	Multiple Sitemap
+2020-04-18 07:09:45	autologout	8.x-1.3	Automated Logout
+2020-04-18 06:48:43	ndb	8.x-1.0	Netlify Deploy Button
+2020-04-18 06:29:06	site_branding_per_role	1.0.0	Site Branding Per Role
+2020-04-18 06:05:04	multiple_sitemap	8.x-1.1	Multiple Sitemap
+2020-04-18 05:29:06	quote	7.x-2.0-rc1	Quote
+2020-04-18 05:27:59	quote	8.x-2.0-rc1	Quote
+2020-04-18 00:44:39	json_feed	8.x-1.2-beta1	JSON Feed
+2020-04-18 00:30:45	dwr	8.x-1.4-rc1	Date Week Range
