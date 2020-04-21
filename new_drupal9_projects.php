@@ -52,7 +52,8 @@ foreach (explode("\n", $releases) as $release) {
       }
     }
     if ($newly_compatible) {
-      $results['NEW Drupal 9'][] = "$d $name $version";
+      $day = date('F j', strtotime($d));
+      $results['NEW Drupal 9'][$day][] = '<a href="https://drupal.org/project/' . $name . '/releases/' . $version . '">' . $name . ' ' . $version . '</a>';
     }
   }
   else {
@@ -60,6 +61,14 @@ foreach (explode("\n", $releases) as $release) {
     $results['Not yet'][] = "$name $version";
   }
   exec("rm -rf $name");
+}
+
+foreach ($results['NEW Drupal 9'] as $day => $releases) {
+  print '<td valign="top"><h3>' . $day . "</h3><ul>\n";
+  foreach ($releases as $release) {
+    print '<li>' . $release . "</li>\n";
+  }
+  print '</ul></td>';
 }
 
 var_dump($results);
