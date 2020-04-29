@@ -1,4 +1,4 @@
-# new_drupal9_projects
+# New Drupal 9 Projects
 
 This repository contains a script to identify newly Drupal 9 compatible projects. The script works off of 
 https://drupal.org/files/releases.tsv which is a regularly updated automated list of new releases.
